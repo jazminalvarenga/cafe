@@ -3,3 +3,5 @@ Cliente: 1
 Pedido: hamburguesa con patatas
 Cliente: 3
 Pedido:  patatas
+Cliente: 2
+Pedido: hamburguesa git 
